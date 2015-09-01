@@ -1,2 +1,3 @@
 # address_book_app
-sails app
+
+a [Sails](http://sailsjs.org) application
